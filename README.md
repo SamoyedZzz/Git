@@ -1,2 +1,2 @@
 # Git
-Learn git since 2020.2.23
+Learn Git since 2020.2.23
